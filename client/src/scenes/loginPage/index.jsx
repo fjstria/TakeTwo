@@ -25,7 +25,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to TakeTwo, the social forum all about motion pictures!
+          Welcome to TakeTwo, a social forum for motion pictures!
         </Typography>
         <Form />
       </Box>
